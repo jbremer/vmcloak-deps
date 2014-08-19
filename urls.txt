@@ -14,3 +14,5 @@ vcredist_2012_x64.exe = http://download.microsoft.com/download/1/6/B/16B06F60-3B
 
 vcredist_2013_x86.exe = http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x86.exe
 vcredist_2013_x64.exe = http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe
+
+FirefoxSetup3.6.20.exe = http://www.oldapps.com/firefox.php?app=74431DF7E360C499698ABC1A90838419
