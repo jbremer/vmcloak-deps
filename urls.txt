@@ -20,3 +20,5 @@ FirefoxSetup3.6.20.exe = http://www.oldapps.com/firefox.php?app=74431DF7E360C499
 PIL-1.1.7.win32-py2.7.exe = http://effbot.org/downloads/PIL-1.1.7.win32-py2.7.exe
 
 AdbeRdr90_en_US.exe = http://download.oldapps.com/Adobe_Reader/AdbeRdr90_en_US.exe
+
+jdk-7-windows-i586.exe = http://download.oldapps.com/Java/jdk-7-windows-i586.exe

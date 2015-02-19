@@ -23,3 +23,5 @@ FirefoxSetup3.6.20.exe = 1c66e23d9c65e2c8805da9ae033f254f084b16c7
 PIL-1.1.7.win32-py2.7.exe = 2293618ac972fdda2e43636cbb4e93646b10e343
 
 AdbeRdr90_en_US.exe = 8faabd08289b9a88023f71136f13fc4bd3290ef0
+
+jdk-7-windows-i586.exe = 2546a78b6138466b3e23e25b5ca59f1c89c22d03
