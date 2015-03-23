@@ -1,4 +1,5 @@
 python-2.7.6.msi = c5d71f339f7edd70ecd54b50e97356191347d355
+python-2.7.6-x64.msi = 405290650b85042f389a8fbf06549c35458afd05
 dotNetFx40_Full_x86_x64.exe = 58da3d74db353aad03588cbb5cea8234166d8b99
 wic_x86_enu.exe = 53c18652ac2f8a51303deb48a1b7abbdb1db427f
 WindowsInstaller-KB893803-v2-x86.exe = 8318455b36ba0a748307459279d46f2f4cdb5a0e
