@@ -16,8 +16,8 @@ vcredist_2010_x64.exe = 027d0c2749ec5eb21b031f46aee14c905206f482
 vcredist_2012_x86.exe = 7d6f654c16f9ce534bb2c4b1669d7dc039c433c9
 vcredist_2012_x64.exe = c4ac45564e801e1bfd87936cac8a76c5754cdbd4
 
-vcredist_2013_x86.exe = 18f81495bc5e6b293c69c28b0ac088a96debbab2
-vcredist_2013_x64.exe = bef7e7cc1dcc45c0c11682d59c64843727557179
+vcredist_2013_x86.exe = df7f0a73bfa077e483e51bfb97f5e2eceedfb6a3
+vcredist_2013_x64.exe = 8bf41ba9eef02d30635a10433817dbb6886da5a2
 
 FirefoxSetup3.6.20.exe = 1c66e23d9c65e2c8805da9ae033f254f084b16c7
 
