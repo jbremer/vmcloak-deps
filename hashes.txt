@@ -26,3 +26,6 @@ PIL-1.1.7.win32-py2.7.exe = 2293618ac972fdda2e43636cbb4e93646b10e343
 AdbeRdr90_en_US.exe = 8faabd08289b9a88023f71136f13fc4bd3290ef0
 
 jdk-7-windows-i586.exe = 2546a78b6138466b3e23e25b5ca59f1c89c22d03
+
+Silverlight_Developer_x86.exe = f87518a85e90050cbe4b4b76308f105c7b37acdc
+Silverlight_Developer_x64.exe = c30c63776a5ca8b3e6d9de788a8dad35b5314ab2
